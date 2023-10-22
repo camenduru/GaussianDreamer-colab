@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/GaussianDreamer-colab/blob/main/GaussianDreamer_colab.ipynb) | GaussianDreamer_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/GaussianDreamer-colab/blob/main/GaussianDreamer_colab.ipynb) | GaussianDreamer_colab (Pro Colab 😭)
 
 ## Main Repo
 https://github.com/hustvl/GaussianDreamer
