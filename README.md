@@ -21,3 +21,4 @@ https://taoranyi.com/gaussiandreamer/
 
 ## Output
 
+https://github.com/camenduru/GaussianDreamer-colab/assets/54370274/5016916f-c96c-42ee-b77f-f0de5646f373
